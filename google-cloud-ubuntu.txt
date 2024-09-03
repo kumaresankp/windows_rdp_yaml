@@ -1,0 +1,34 @@
+#Install Chrome Remote Desktop: 
+ 
+wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+ 
+sudo apt install ./chrome-remote-desktop_current_amd64.deb
+ 
+#Install XFCE Desktop Environment:
+ 
+sudo DEBIAN_FRONTEND=noninteractive \
+    apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver
+ 
+#Create a Google Chrome Remote Desktop Session:
+ 
+sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session'
+ 
+#Disable Default Display Service:
+ 
+sudo systemctl disable lightdm.service
+ 
+ 
+#Open Browser and Search Google Remote Desktop
+#Click on install wia ssh
+#Follow Process
+#Login into remote desktop
+#Install Chrome Browser: 
+ 
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ 
+sudo apt install ./google-chrome-stable_current_amd64.deb
+ 
+#Show Details of CPU, RAM etc.
+ 
+sudo apt install gnome-system-monitor
+ 
