@@ -5,7 +5,7 @@ If you find my work helpful, consider supporting me by buying a coffee:
 
 ## Connect with Me
 
-- **Instagram**: [https://instagram.com/kumaresan21](https://instagram.com/kumaresan21)
+- **Instagram**: [https://instagram.com/kumaresan21_](https://instagram.com/kumaresan21_)
 - **Website:** [https://kumaresan.interniq.tech](https://kumaresan.interniq.tech)
 - **Telegram:** [https://t.me/kumaresankp18](https://t.me/kumaresankp18)
 - **Facebook Group:** [https://www.facebook.com/profile.php?id=61563662246215](https://www.facebook.com/profile.php?id=61563662246215)
